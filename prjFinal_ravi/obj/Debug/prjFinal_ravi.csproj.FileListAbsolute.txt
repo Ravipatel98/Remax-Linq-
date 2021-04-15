@@ -1,0 +1,15 @@
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.csprojAssemblyReference.cache
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.frmAgent.resources
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.frmClient.resources
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.frmHouse.resources
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.frmLogin.resources
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.frmMain.resources
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.frmSearchHouse.resources
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.Properties.Resources.resources
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.csproj.GenerateResource.cache
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.csproj.CoreCompileInputs.cache
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\bin\Debug\prjFinal_ravi.exe.config
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\bin\Debug\prjFinal_ravi.exe
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\bin\Debug\prjFinal_ravi.pdb
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.exe
+C:\Users\prije\OneDrive\Desktop\prjFinal_ravi\prjFinal_ravi\obj\Debug\prjFinal_ravi.pdb
